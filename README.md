@@ -1,15 +1,21 @@
 <div align="center">
-  <br><br><br><br><br>
-
-  <img src="raindrop.svg" alt="zen" width="60" height="120" />
-
+  <img src="animation.svg" alt="Nathan McCormick Header" width="100%" />
+  
   <br><br>
 
-  <p>
-    <a href="https://github.com/Ypout07/banana-blockchain" style="text-decoration:none;"><code>Banana Blockchain</code></a> &nbsp;&nbsp;·&nbsp;&nbsp;
-    <a href="https://github.com/Ypout07/safepip" style="text-decoration:none;"><code>SafePip</code></a> &nbsp;&nbsp;·&nbsp;&nbsp;
-    <a href="https://github.com/Ypout07/bounty-bot" style="text-decoration:none;"><code>Bountry Bot</code></a>
-  </p>
+  <table border="0" cellpadding="0" cellspacing="0" align="center">
+    <tr>
+      <td>
+        <a href="https://github.com/Ypout07/safepip"><img src="safepip_button.svg" alt="SafePip"></a>
+      </td>
+      <td width="20"></td> <td>
+        <a href="https://github.com/Ypout07/local-ai-assistant"><img src="bounty_bot_button.svg" alt="Bounty Bot"></a>
+      </td>
+      <td width="20"></td> <td>
+        <a href="https://github.com/Ypout07/portfolio"><img src="banana_blockchain_button.svg" alt="Banana Blockchain"></a>
+      </td>
+    </tr>
+  </table>
 
-  <br><br><br><br><br>
+  <br><br>
 </div>
