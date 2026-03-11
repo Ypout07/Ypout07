@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="animation.svg" alt="Nathan McCormick Header" width="100%" />
+  <img src="header.svg" alt="Nathan McCormick Header" width="100%" />
   
   <br><br>
 
