@@ -1,16 +1,15 @@
-## Hi there 👋
+<div align="center">
+  <br><br><br><br><br>
 
-<!--
-**Ypout07/Ypout07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+  <img src="raindrop.svg" alt="zen" width="60" height="120" />
 
-Here are some ideas to get you started:
+  <br><br>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  <p>
+    <a href="https://github.com/Ypout07/banana-blockchain" style="text-decoration:none;"><code>Banana Blockchain</code></a> &nbsp;&nbsp;·&nbsp;&nbsp;
+    <a href="https://github.com/Ypout07/safepip" style="text-decoration:none;"><code>SafePip</code></a> &nbsp;&nbsp;·&nbsp;&nbsp;
+    <a href="https://github.com/Ypout07/bounty-bot" style="text-decoration:none;"><code>Bountry Bot</code></a>
+  </p>
+
+  <br><br><br><br><br>
+</div>
