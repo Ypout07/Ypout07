@@ -1,0 +1,12 @@
+<svg width="60" height="120" viewBox="0 0 60 120" xmlns="http://www.w3.org/2000/svg">
+  <circle cx="30" cy="20" r="2.5" fill="#888888">
+    <animate attributeName="cy" values="20; 90; 90" keyTimes="0; 0.6; 1" dur="2.5s" repeatCount="indefinite" />
+    <animate attributeName="opacity" values="0; 1; 0; 0" keyTimes="0; 0.2; 0.6; 1" dur="2.5s" repeatCount="indefinite" />
+  </circle>
+  
+  <ellipse cx="30" cy="90" rx="0" ry="0" fill="none" stroke="#888888" stroke-width="1">
+    <animate attributeName="rx" values="0; 18" keyTimes="0.6; 1" dur="2.5s" repeatCount="indefinite" />
+    <animate attributeName="ry" values="0; 5" keyTimes="0.6; 1" dur="2.5s" repeatCount="indefinite" />
+    <animate attributeName="opacity" values="0; 1; 0" keyTimes="0.59; 0.6; 1" dur="2.5s" repeatCount="indefinite" />
+  </ellipse>
+</svg>
