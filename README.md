@@ -1,12 +1,12 @@
 # Nathan McCormick
 
-Hey! I'm a student studying Math and Computer Science at the University of Nebraska-Lincoln's [Raikes School](https://raikes.unl.edu). 
+Hey! I'm currently studying Math and Computer Science at the University of Nebraska-Lincoln's [Raikes School](https://raikes.unl.edu). 
 
 ## A little about me:
 
 ### Experience:
 
-- **Prev. Software Engineering Intern @ Hudl -** Saved $100k/yr by migrating a third party software into a C#/.NET microservice architecture 
+- **Prev. Software Engineering Intern @ Hudl -** Saved $100k/yr by migrating third party software into C#/.NET microservice architecture 
 - **Math Researcher -** Topology/knot theory, computing and proving ribbon knot invariants
 
 ### Involvements:
