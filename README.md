@@ -1,26 +1,24 @@
 # Nathan McCormick
 
-Hi, I'm Nathan. I'm currently studying Math and Computer Science at the University of Nebraska - Lincoln. 
+Hey! I'm a student studying Math and Computer Science at the University of Nebraska-Lincoln's [Raikes School](https://raikes.unl.edu). 
 
-### Here are some of my interests:
+## A little about me:
 
-- **Hackathons -** 3x winner, check out the [projects](https://github.com/Ypout07?tab=repositories&q=topic:hackathon) on my page
-- **Building developer tools -** take a look at [SafePip](https://github.com/Ypout07/safepip)
-- **Lightweight, minimalistic software -** things like [Zed](https://github.com/zed-industries/zed)
-- **Modern tooling and languages -** Golang and Rust
+### Experience:
 
-### Here's what I'm currently doing:
+- **Prev. Software Engineering Intern @ Hudl -** Saved $100k/yr by migrating a third party software into a C#/.NET microservice architecture 
+- **Math Researcher -** Topology/knot theory, computing and proving ribbon knot invariants
 
-- **Math Research -** Taking abstract topology/knot theory and turning it into the code that actually computes it
-- **Campus Ambassador -** Organizing and leading campus events as a [Zed](https://github.com/zed-industries/zed) ambassador
-- **Open source contributions -** working with [Docker](https://github.com/moby/moby) 
+### Involvements:
 
-### Here's what's coming next:
+- **Campus Ambassador @ [Zed](https://zed.dev) -** Campus events and open source contributions for GPUI Markdown rendering in Rust-based IDE
+- **Entrepreneurship Teaching Assistant -** Mentoring 60+ students to build user-focused tech startups
 
-- **Incoming SWE Intern at Hudl -** Summer 2026
-- **Incoming entrepreneurship TA -** Fall 2026
-- **More hackathons, more projects, and more research -** Stay tuned
+### Other:
+
+- **3x Hackathon Winner -** Check out the [projects](https://github.com/Ypout07?tab=repositories&q=topic:hackathon) on my page
+- **Shipping dev tools -** Find them [here](https://github.com/Ypout07?tab=repositories&q=topic:personal-project), specifically SafePip (200+ users)
 
 ---
 
-Don't hesitate to reach out or connect with me on [my LinkedIn](https://www.linkedin.com/in/nathan-mccormick1)!
+Contact me by reaching out on [my LinkedIn](https://www.linkedin.com/in/nathan-mccormick1)
